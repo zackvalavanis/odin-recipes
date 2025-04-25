@@ -1,0 +1,20 @@
+.header-container {
+  display: flex;
+  justify-content: center;
+}
+
+a,
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+.image-figure {
+  display: flex;
+  justify-content: center;
+}
+
+figcaption {
+  display: flex;
+  justify-content: center;
+}
